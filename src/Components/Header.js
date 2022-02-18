@@ -8,7 +8,7 @@ function Header(props) {
     return (
         <Head user={props.user}>
             <Logo>
-                <a href="/"><img src="/logo.png" alt="Logo" title="Home"/></a>
+                <a href="/"><img src="/Logo.png" alt="Logo" title="Home"/></a>
             </Logo>
             <div>
                 <Language>
