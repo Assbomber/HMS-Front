@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://hms-byaman.herokuapp.com/";
+const BACKEND_URL = "https://hms-byaman.herokuapp.com";
 const hello=()=>{
 
 }
